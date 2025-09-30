@@ -1,0 +1,12 @@
+{
+  "project_name": "逆天仙途：因果投资万倍返还！",
+  "author": "作者",
+  "genre": "玄幻",
+  "min_word_count": 6000,
+  "target_word_count": 8000,
+  "max_word_count": 8000,
+  "chapter_naming_pattern": "第{num}章 {title}.txt",
+  "workflow_config_file": "workflow.json",
+  "outline_file": "故事大纲.md",
+  "agent_config_file": "agent.md"
+}
